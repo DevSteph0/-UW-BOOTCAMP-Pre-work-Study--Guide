@@ -1,2 +1,2 @@
-# -UW-BOOTCAMP-Pre-work-Study--Guide
+prework-study-guide
 Study guide for pre work
